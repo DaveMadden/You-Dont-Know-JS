@@ -10,7 +10,9 @@ LOOK! **Please [support the Kickstarter](https://www.kickstarter.com/projects/ge
 <a href="https://www.kickstarter.com/projects/getify/you-dont-know-js-yet-second-edition-books?ref=1cxjks" target="_blank"><img src="https://www.kicktraq.com/projects/getify/you-dont-know-js-yet-second-edition-books/minichart.png" alt="&quot;You Don't Know JS Yet&quot; second edition books -- Kicktraq Mini" title="&quot;You Don't Know JS Yet&quot; second edition books -- Kicktraq Mini"></a>
 
 ----
-----
+----  
+
+
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the **second edition** of the book series:
 

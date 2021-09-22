@@ -13,7 +13,6 @@ If you are new to programming or JS, be aware that these books are not intended 
 
 These books approach JavaScript intentionally opposite of how *The Good Parts* treats the language. No, that doesn't mean we're looking at *the bad parts*, but rather, exploring **all the parts**.
 
-
 You may have been told, or felt yourself, that JS is a deeply flawed language that was poorly designed and inconsistently implemented. Many have asserted that it's the worst most popular language in the world; that nobody writes JS because they want to, only because they have to given its place at the center of the web. That's a ridiculous, unhealthy, and wholly condescending claim.
 
 Millions of developers write JavaScript every day, and many of them appreciate and respect the language.
